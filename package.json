@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.22",
+    "robotjs": "^0.6.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module"
+}
