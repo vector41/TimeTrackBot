@@ -1,0 +1,2 @@
+# TimeTrackBot
+TimeTrackBot for ManicTime
